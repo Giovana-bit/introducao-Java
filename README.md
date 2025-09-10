@@ -14,10 +14,19 @@ Aqui registro conceitos básicos da linguagem e minhas práticas iniciais.
   - `String`
   - `int`
   - `float`
+  - `boolean`
 - Operações matemáticas: soma, subtração, multiplicação e divisão.
 - Impressão de valores e mensagens no console com `System.out.println` e `System.out.printf`.
+- Estruturas condicionais:
+  - `if`, `else if`, `else`
+  - `switch case`
+- Operadores lógicos:
+  - `&&` (E/AND)
+  - `||` (OU/OR)
+- Operador ternário (`? :`) para simplificação de condições.
+- Tabelas verdade (valores resultantes de combinações lógicas).
 
 ---
 
 ## 🚀 Objetivo
-Este repositório serve como **registro de estudos**, acompanhando minha evolução na linguagem **Java** desde os conceitos fundamentais.
+Este repositório serve como **registro de estudos**, acompanhando minha evolução na linguagem **Java** desde os conceitos fundamentais.  
